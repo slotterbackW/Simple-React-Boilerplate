@@ -1,4 +1,4 @@
-This repository is supposed to provide extremely simple boilerplate for starting a React app.
+This repository provides extremely simple boilerplate for starting a React app.
 
 # To Install
 First make sure you have Node and Yarn installed.
